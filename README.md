@@ -13,9 +13,9 @@ This project analyzes and compares product data from Amazon and Walmart to under
 5. Analyze customer rating patterns.
 6. Study discount trends.
 7. Identify outliers and anomalies
-5. Compare Amazon vs Walmart performance and pricing
-6. Visualize key metrics
-7. Generate business insights
+8. Compare Amazon vs Walmart performance and pricing
+9. Visualize key metrics
+10. Generate business insights
 
 ---
 
