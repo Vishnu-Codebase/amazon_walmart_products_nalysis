@@ -1,0 +1,16 @@
+# Ignore generated visualization images (keep outliers.csv tracked)
+figures/generated_images/
+
+# If you ever ignore the entire figures/ folder, make sure to keep outliers.csv tracked:
+!figures/outliers.csv
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env
