@@ -6,11 +6,16 @@ This project analyzes and compares product data from Amazon and Walmart to under
 ---
 
 ## 🎯 Project Objectives
-- Compare product prices across Amazon and Walmart
-- Analyze customer rating patterns
-- Study discount trends
-- Identify outliers and anomalies
-- Generate actionable business insights
+1. Clean and preprocess raw datasets
+2. Handle missing and incorrect values
+3. Perform Exploratory Data Analysis (EDA)
+4. Identify trends and anomalies.
+5. Analyze customer rating patterns.
+6. Study discount trends.
+7. Identify outliers and anomalies
+5. Compare Amazon vs Walmart performance and pricing
+6. Visualize key metrics
+7. Generate business insights
 
 ---
 
