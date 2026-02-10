@@ -114,7 +114,7 @@ jupyter nbconvert --to notebook --execute export_png_images.ipynb
 - More than half of products have zero discount; discount behavior differs by platform.
 - Final and initial price are strongly correlated; discounts are relatively sparse but can be large for a few products.
 
-### Additional observations
+### 🔍 Additional observations
 - A large share of Amazon items report zero or negligible discounts, while Walmart shows more active discounting behavior for a subset of products.
 - A small number of extreme discounts and prices substantially affect mean statistics; median and percentile-based summaries are provided in the notebooks to reduce sensitivity to these extremes.
 
